@@ -1,5 +1,0 @@
-﻿  cudnn.cpp
-cudnn.obj : error LNK2019: 无法解析的外部符号 _cudnnGetErrorString@4，该符号在函数 _main 中被引用
-cudnn.obj : error LNK2019: 无法解析的外部符号 _cudnnCreate@4，该符号在函数 _main 中被引用
-C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v9.0\lib\x64\cudnn.lib : warning LNK4272: 库计算机类型“x64”与目标计算机类型“X86”冲突
-E:\C\vs15\cudnn\Debug\cudnn.exe : fatal error LNK1120: 2 个无法解析的外部命令
